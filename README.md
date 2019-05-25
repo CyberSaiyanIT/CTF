@@ -7,7 +7,7 @@ Sarà possibile anche partecipare da remoto visto che l'Aperitech sarà trasmess
 
 Step di preparazione alla CTF
 * installare VirtualBox sul proprio PC ([download](https://www.virtualbox.org/wiki/Downloads))
-* [scaricare l'applicazione virtuale OVA zippata](https://mega.nz/#!bAoBzY7T!Y0HTuOPgjzW092TfUw4fskNyxdAl4steg0n_jyyM9-M) (file: *Aperitech_May27.zip* | dimesione: 5.28GB | md5sum: [TODO])
+* [scaricare l'applicazione virtuale OVA zippata](https://mega.nz/#!bAoBzY7T!Y0HTuOPgjzW092TfUw4fskNyxdAl4steg0n_jyyM9-M) (file: *Aperitech_May27.zip* | dimesione: 5.28GB | md5sum: *034a40a6297d5cf8825a9ef674241c80*)
 * unzippare il file per ottenere il file *Aperitech_May27.ova* 
 
 **!! E' NECESSARIA LA PASSWORD CHE SARA' COMUNICATA ALL'INIZIO DELL'APERITECH !!**
