@@ -10,7 +10,9 @@ Step di preparazione alla CTF
 * [scaricare l'applicazione virtuale OVA zippata](https://mega.nz/#!bAoBzY7T!Y0HTuOPgjzW092TfUw4fskNyxdAl4steg0n_jyyM9-M) (file: *Aperitech_May27.zip* | dimesione: 5.28GB | md5sum: *034a40a6297d5cf8825a9ef674241c80*)
 * estrarre dallo zip il file *Aperitech_May27.ova* 
 
-**!! E' NECESSARIA LA PASSWORD CHE SARA' COMUNICATA ALL'INIZIO DELL'APERITECH !!**
+**!! PER PROSEGUIRE E' NECESSARIA LA PASSWORD CHE SARA' COMUNICATA ALL'INIZIO DELL'APERITECH !!**
+
+La password sarà comunicata alle ore 19:00 in sala e sui canali social dell'associazione (twitter/telegram/youtube) per dar modo a chi vorrà giocare insieme a noi di importare l'applicazione virtuale ed essere pronti per le 19:15
 
 Import OVA in VirtualBox
 * importare l'applicazione virtuale in Virtualbox (*File*->*Importa applicazione virtuale...* oppure *CTRL+I*) lasciando le impostazioni di default (tempo stimato: 5 minuti | nome: *vm*)
