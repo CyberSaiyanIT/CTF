@@ -3,7 +3,7 @@
 ## Aperitech - 27 Maggio 2019
 Durante il [secondo Aperitech di Cyber Saiyan a Roma](https://www.eventbrite.it/e/biglietti-secondo-appuntamento-con-le-ctf-aperitech-di-cyber-saiyan-60310700930) giocheremo una CTF preparata da Alberto *yuntao* Caponi
 
-Sarà possibile anche partecipare da remoto visto che l'Aperitech sarà trasmesso in live streaming
+Sarà possibile anche partecipare da remoto visto che l'Aperitech sarà [trasmesso in live streaming](https://www.youtube.com/watch?v=sLuA1Phi4mg)
 
 Step di preparazione alla CTF
 * installare VirtualBox sul proprio PC ([download](https://www.virtualbox.org/wiki/Downloads))
