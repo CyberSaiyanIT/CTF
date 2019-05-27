@@ -11,9 +11,7 @@ Step di preparazione alla CTF
   * [mega.nz](https://mega.nz/#!bAoBzY7T!Y0HTuOPgjzW092TfUw4fskNyxdAl4steg0n_jyyM9-M) 
   * [google drive](https://drive.google.com/open?id=1FmhS5GyKm6Bm4YuI3Q4mpu6Vx-qWECrs) 
 
-**!! PER PROSEGUIRE E' NECESSARIA LA PASSWORD CHE SARA' COMUNICATA ALL'INIZIO DELL'APERITECH !!**
-
-La password sarà comunicata alle ore 19:00 in sala e sui canali social dell'associazione (twitter/telegram/youtube) per dar modo a chi vorrà giocare insieme a noi di importare l'applicazione virtuale ed essere pronti per le 19:15
+Password per lo zip: **CyberSaiyanCTF1!1!2705**
 
 Import OVA in VirtualBox
 * estrarre dallo zip il file *Aperitech_May27.ova* 
