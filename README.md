@@ -1,11 +1,14 @@
 # CTF di Cyber Saiyan
 
 ## Aperitech - 27 Maggio 2019
-Durante il [secondo Aperitech di Cyber Saiyan a Roma](https://www.eventbrite.it/e/biglietti-secondo-appuntamento-con-le-ctf-aperitech-di-cyber-saiyan-60310700930) giocheremo una CTF preparata da Alberto *yuntao* Caponi
+Durante il [secondo Aperitech di Cyber Saiyan a Roma](https://www.eventbrite.it/e/biglietti-secondo-appuntamento-con-le-ctf-aperitech-di-cyber-saiyan-60310700930) abbiamo giocato una CTF preparata da Alberto *yuntao* Caponi
 
-Sarà possibile anche partecipare da remoto visto che l'Aperitech sarà [trasmesso in live streaming](https://www.youtube.com/watch?v=sLuA1Phi4mg)
+E' possibile [rivedere la soluzione della box](https://youtu.be/sLuA1Phi4mg?t=575) fatta da yuntao
 
-Step di preparazione alla CTF
+Il writeup sarà disponibile quanto prima
+
+## Setup della box
+Download applicazione virtuale
 * installare VirtualBox sul proprio PC ([download](https://www.virtualbox.org/wiki/Downloads))
 * scaricare l'applicazione virtuale OVA zippata (file: *Aperitech_May27.zip* | dimesione: 5.28GB | md5sum: *034a40a6297d5cf8825a9ef674241c80*)
   * [mega.nz](https://mega.nz/#!bAoBzY7T!Y0HTuOPgjzW092TfUw4fskNyxdAl4steg0n_jyyM9-M) 
@@ -22,5 +25,3 @@ Import OVA in VirtualBox
 ![vboxnet0](vbox-02.png)
 
 Avviare *vm* (che prenderà un IP nel pool DHCP 192.168.56.0/24) ed iniziare a giocare :)
-
-NOTA: Il writeup sarà messo on line al termine dell'Aperitech
