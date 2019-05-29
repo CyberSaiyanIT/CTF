@@ -1,5 +1,5 @@
 # Writeup CTF 27 Maggio 2019
-[Setup della macchina](README.md#aperitech---27-maggio-2019)
+[Setup della macchina](../README.md#aperitech---27-maggio-2019)
 
 Dopo aver avviato *vm* si procede all'identificazione dell'IP della stessa (supponiamo che la rete host Virtualbox sia 192.168.56.0/24)
 
