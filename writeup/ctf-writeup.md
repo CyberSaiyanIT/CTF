@@ -150,7 +150,7 @@ Date:   Sat May 25 08:39:23 2019 +0000
     Updated docker-compose with new password
 [...]
 ```
-Salta immediatamente agli oggi il commit ```adac166fce91656bd3321f1f99aaa604cc87cc6f```che ha come descrizione *Updated docker-compose with new password*. Ne analizziamo il codice
+Salta immediatamente agli occhi il commit ```adac166fce91656bd3321f1f99aaa604cc87cc6f```che ha come descrizione *Updated docker-compose with new password*. Ne analizziamo il codice
 ```
 $ git show adac166fce91656bd3321f1f99aaa604cc87cc6f
 [...]
