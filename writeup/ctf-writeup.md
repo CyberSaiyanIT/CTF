@@ -392,7 +392,7 @@ Ora mettiamo una reverse shell python sulla macchina remota (la stessa ```revers
 Rer fare questo
 * istanziamo sul nostro PC un web server
 * ci mettiamo in ascolto con ```netcat``` sulla porta 1234
-* caricheremo la reverse shell sulla macchina remota usando l'exploit appena trovato
+* carichiamo la reverse shell sulla macchina remota usando l'exploit appena trovato
 ```
 $ cd ~/ctf/rev_app/bin/
 $ python -m SimpleHTTPServer
