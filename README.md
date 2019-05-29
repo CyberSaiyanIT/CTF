@@ -5,7 +5,7 @@ Durante il [secondo Aperitech di Cyber Saiyan a Roma](https://www.eventbrite.it/
 
 E' possibile [rivedere la soluzione della box](https://youtu.be/sLuA1Phi4mg?t=575) fatta da yuntao
 
-Il writeup sarà disponibile quanto prima
+[Qui è disponibile](writeup/ctf-writeup.md) il writeup della CTF
 
 ## Setup della box
 Download applicazione virtuale
