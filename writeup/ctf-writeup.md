@@ -287,7 +287,7 @@ bI9lw1AjrzuhdX2YrQAAAA5tZXJsb3NAb3Nib3hlcwECAw==
 Per leggere la chiave privata è possibile usare anche la capacità di Splunk di creare i cosiddetti *Input Dati* di tipo *File*, che consentono - se abbiamo permessi - di leggere dal filesystem direttamente dalla barra di ricerca. La figura seguente riporta gli step di creazione di un *Input* che va a leggere la directory ```/home/```
 ![Splunk creazione input dati](splunk-03.png)
 
-A questo punto basta ricercare per parola chiave ```OPENSSH``` e abbiamo la chiave privata.
+A questo punto basta ricercare per parola chiave ```OPENSSH``` e abbiamo la chiave privata ```source="/home/*" host="splunkenterprise" OPENSSH```
 ![Splunk ricerca su /home/](splunk-04.png)
 
 Usando la chiave privata dell'utente merlos tentiamo di loggarci sulla macchina
