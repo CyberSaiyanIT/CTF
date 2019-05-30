@@ -186,6 +186,8 @@ Andiamo quindi a testare immediatamente un login all'indirizzo ```http://192.168
 
 L'idea è di usare Splunk per ottenere una reverse shell sulla macchina e per fare questo andiamo a caricare (siamo admin) una custom app con una reverse shell python. [In questo post](https://threat.tevora.com/penetration-testing-with-splunk-leveraging-splunk-admin-credentials-to-own-the-enterprise/) trovate tutte le info (ed altro ancora).
 
+E' possibile anche leggere la chiave privata usando la funzionalità di *Input Dati* di Splunk, questa tecnica sarà descritta più avanti.
+
 Andiamo a ricreare la struttura standard di un'app splunk (```rev_app```) con le cartelle ed i file necessari dove
 * la reverse shell (file ```bin/reverse.py```) punterà all'IP del nostro PC (192.168.56.1, defaut IP per la macchina host sulla host network di Virtualbox) sulla porta 1234
 * lo script sarà eseguito da splunk periodicamente (```interval=10```)
@@ -282,6 +284,12 @@ JV9YQ9vrqew9ToMprPsZiqoPOJqOf1JX2zn8fXjQR8nMi1XBrZbKBtFhH/Yic88xScWEeL
 bI9lw1AjrzuhdX2YrQAAAA5tZXJsb3NAb3Nib3hlcwECAw==
 -----END OPENSSH PRIVATE KEY-----
 ```
+Per leggere la chiave privata è possibile usare anche la capacità di Splunk di creare i cosiddetti *Input Dati* di tipo *File*, che consentono - se abbiamo permessi - di leggere dal filesystem direttamente dalla barra di ricerca. La figura seguente riporta gli step di creazione di un *Input* che va a leggere la directory ```/home/```
+![Splunk creazione input dati](splunk-03.png)
+
+A questo punto basta ricercare per parola chiave ```OPENSSH``` e abbiamo la chiave privata.
+![Splunk ricerca su /home/](splunk-04.png)
+
 Usando la chiave privata dell'utente merlos tentiamo di loggarci sulla macchina
 ```
 $ cat <<PRIVKEY > merlos.privkey
