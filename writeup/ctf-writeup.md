@@ -186,7 +186,7 @@ Andiamo quindi a testare immediatamente un login all'indirizzo ```http://192.168
 
 L'idea è di usare Splunk per ottenere una reverse shell sulla macchina e per fare questo andiamo a caricare (siamo admin) una custom app con una reverse shell python. [In questo post](https://threat.tevora.com/penetration-testing-with-splunk-leveraging-splunk-admin-credentials-to-own-the-enterprise/) trovate tutte le info (ed altro ancora).
 
-E' possibile anche leggere la chiave privata usando la funzionalità di *Input Dati* di Splunk, questa tecnica sarà descritta più avanti.
+E' possibile anche leggere la chiave privata usando la funzionalità di *Input Dati* di Splunk, questa tecnica sarà descritta più avanti ([grazie a Matteo Neri](https://www.linkedin.com/feed/update/urn:li:activity:6539347832707575808?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6539347832707575808%2C6539442301779886080%29) per il suggerimento).
 
 Andiamo a ricreare la struttura standard di un'app splunk (```rev_app```) con le cartelle ed i file necessari dove
 * la reverse shell (file ```bin/reverse.py```) punterà all'IP del nostro PC (192.168.56.1, defaut IP per la macchina host sulla host network di Virtualbox) sulla porta 1234
