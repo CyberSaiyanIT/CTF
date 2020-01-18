@@ -1,5 +1,12 @@
 # CTF di Cyber Saiyan
 
+## Aperitech - 29 Gennaio 2020
+Durante l'aperitech del 29 Gennaio 2020 andreamo a risolvere la[Boot2Root - Shopper](https://community.codemotion.com/cyber-saiyan/meetups/meetup-aperitech-roma-di-cyber-saiyan), macchina preparata da HackTheBox per la CTF di #RomHack2019
+
+### Setup della box
+* installare VirtualBox sul proprio PC ([download](https://www.virtualbox.org/wiki/Downloads))
+* link per scaricare l'applicazione virtuale presto disponibile
+
 ## Aperitech - 27 Maggio 2019
 Durante il [secondo Aperitech di Cyber Saiyan a Roma](https://www.eventbrite.it/e/biglietti-secondo-appuntamento-con-le-ctf-aperitech-di-cyber-saiyan-60310700930) abbiamo giocato una CTF preparata da Alberto *yuntao* Caponi
 
@@ -7,8 +14,8 @@ E' possibile [rivedere la soluzione della box](https://youtu.be/sLuA1Phi4mg?t=57
 
 [Qui è disponibile](writeup/ctf-writeup.md) il writeup della CTF
 
-## Setup della box
-Download applicazione virtuale
+### Setup della box
+Installazione  applicazione virtuale
 * installare VirtualBox sul proprio PC ([download](https://www.virtualbox.org/wiki/Downloads))
 * scaricare l'applicazione virtuale OVA zippata (file: *Aperitech_May27.zip* | dimesione: 5.28GB | md5sum: *034a40a6297d5cf8825a9ef674241c80*)
   * [mega.nz](https://mega.nz/#!bAoBzY7T!Y0HTuOPgjzW092TfUw4fskNyxdAl4steg0n_jyyM9-M) 
