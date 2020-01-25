@@ -11,7 +11,7 @@ Durante il [secondo Aperitech di Cyber Saiyan a Roma](https://www.eventbrite.it/
 
 E' possibile [rivedere la soluzione della box](https://youtu.be/sLuA1Phi4mg?t=575) fatta da yuntao
 
-[Qui è disponibile](writeup/ctf-writeup.md) il writeup della CTF
+[Qui è disponibile](writeup-20190527/ctf-writeup.md) il writeup della CTF
 
 ### Download OVA
 Scaricare l'applicazione virtuale OVA zippata (file: *Aperitech_May27.zip* | dimesione: 5.28GB | md5sum: *034a40a6297d5cf8825a9ef674241c80*)
