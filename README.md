@@ -4,7 +4,6 @@
 Durante l'aperitech del 29 Gennaio 2020 andreamo a risolvere la [Boot2Root - Shopper](https://community.codemotion.com/cyber-saiyan/meetups/meetup-aperitech-roma-di-cyber-saiyan), macchina preparata da HackTheBox per la CTF di #RomHack2019
 
 ### Download OVA
-Il link per scaricare l'applicazione virtuale presto disponibile (almeno 2 giorni prima dell'evento)
 Scaricare l'applicazione virtuale OVA compressa con password (file: *Shopper.ova.7z* | dimesione: 3.07GB | md5sum: *e31386b5113bc454314aaa6950faf2dd*)
 * [mega.nz](https://mega.nz/#!SuAi0aAI!rAkUHGFmjGv4-yw1svS5iJ5CTty77EWsNIYrDChHDpQ)
 
