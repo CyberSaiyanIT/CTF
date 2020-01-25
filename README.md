@@ -9,8 +9,10 @@ Il link per scaricare l'applicazione virtuale presto disponibile (almeno 2 giorn
 ## Aperitech - 27 Maggio 2019
 Durante il [secondo Aperitech di Cyber Saiyan a Roma](https://www.eventbrite.it/e/biglietti-secondo-appuntamento-con-le-ctf-aperitech-di-cyber-saiyan-60310700930) abbiamo giocato una CTF preparata da Alberto *yuntao* Caponi
 
+### Live video
 E' possibile [rivedere la soluzione della box](https://youtu.be/sLuA1Phi4mg?t=575) fatta da yuntao
 
+### Writeup
 [Qui è disponibile](writeup-20190527/ctf-writeup.md) il writeup della CTF
 
 ### Download OVA
