@@ -22,7 +22,6 @@ E' possibile [rivedere la soluzione della box](https://youtu.be/sLuA1Phi4mg?t=57
 ### Download OVA
 Scaricare l'applicazione virtuale OVA zippata (file: *Aperitech_May27.zip* | dimesione: 5.28GB | md5sum: *034a40a6297d5cf8825a9ef674241c80*)
 * [mega.nz](https://mega.nz/#!bAoBzY7T!Y0HTuOPgjzW092TfUw4fskNyxdAl4steg0n_jyyM9-M) 
-* [google drive](https://drive.google.com/open?id=1FmhS5GyKm6Bm4YuI3Q4mpu6Vx-qWECrs) 
 
 Password per lo zip: **CyberSaiyanCTF1!1!2705**
 
