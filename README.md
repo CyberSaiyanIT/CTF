@@ -7,7 +7,7 @@ Durante l'aperitech del 29 Gennaio 2020 andreamo a risolvere la [Boot2Root - Sho
 Scaricare l'applicazione virtuale OVA compressa con password (file: *Shopper.ova.7z* | dimesione: 3.07GB | md5sum: *e31386b5113bc454314aaa6950faf2dd*)
 * [mega.nz](https://mega.nz/#!SuAi0aAI!rAkUHGFmjGv4-yw1svS5iJ5CTty77EWsNIYrDChHDpQ)
 
-Password del file 7z: e31386b5113bc454314aaa6950faf2dd
+Password del file 7z: e7dc90616e4612d17a8ff5f7f47d23a6
 
 ## Aperitech - 27 Maggio 2019
 Durante il [secondo Aperitech di Cyber Saiyan a Roma](https://www.eventbrite.it/e/biglietti-secondo-appuntamento-con-le-ctf-aperitech-di-cyber-saiyan-60310700930) abbiamo giocato una CTF preparata da Alberto *yuntao* Caponi
