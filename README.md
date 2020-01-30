@@ -1,7 +1,7 @@
 # CTF di Cyber Saiyan
 
 ## Aperitech - 29 Gennaio 2020
-Durante l'aperitech del 29 Gennaio 2020 si è giocato con la [Shopper](https://community.codemotion.com/cyber-saiyan/meetups/meetup-aperitech-roma-di-cyber-saiyan) la macchina boot2root preparata da HackTheBox per la CTF di #RomHack2019
+Durante [l'aperitech del 29 Gennaio 2020](https://community.codemotion.com/cyber-saiyan/meetups/meetup-aperitech-roma-di-cyber-saiyan) si è giocato con Shopper, la macchina boot2root preparata da HackTheBox per la [CTF di #RomHack2019](https://2019.romhack.io/ctf-2019.html)
 
 ### Writeup
 [Qui è disponibile](writeup-20200129/ctf-writeup.md) il writeup della CTF
