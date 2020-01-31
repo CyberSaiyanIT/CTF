@@ -92,7 +92,7 @@ POST /generate.php HTTP/1.1
 Host: 172.16.150.137
 Content-Length: 228
 Cache-Control: max-age=0
-Authorization: Basic ZGFycmVuOkJ1YzR0MW4xQzRjMTAzUDNwMw==
+Authorization: Basic [...]
 Origin: http://172.16.150.137
 Upgrade-Insecure-Requests: 1
 Content-Type: application/x-www-form-urlencoded
