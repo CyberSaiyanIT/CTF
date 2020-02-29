@@ -36,7 +36,7 @@ Scaricare l'applicazione virtuale OVA zippata (file: *Aperitech_May27.zip* | dim
 
 Password per lo zip: **CyberSaiyanCTF1!1!2705**
 
-## Compe importare il file OVA in VirtualBox
+## Come importare il file OVA in VirtualBox
 Di seguito le istruzioni per importare il file OVA in VirtualBox
 * installare VirtualBox sul proprio PC ([download](https://www.virtualbox.org/wiki/Downloads))
 * estrarre dallo zip il file *.ova* usando la password fornita
