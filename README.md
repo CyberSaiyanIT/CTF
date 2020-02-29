@@ -1,6 +1,15 @@
 # CTF di Cyber Saiyan
 
-## Aperitech - 29 Gennaio 2020
+## Kaarot - 4 Marzo 2020
+Durante [l'aperitech del 4 Marzo 2020](https://community.codemotion.com/cyber-saiyan/meetups/roma-meetup-aperitech-di-marzo-di-cyber-saiyan) andremo a risolvere **Kaarot** , una boot2root preparata da *yuntao* e *decoder*
+
+### Download OVA
+Scaricare l'applicazione virtuale OVA compressa con password (file: *kaarot.zip* | dimesione: *7.21GB* | md5sum zip: *ad56d18ca55b14c0b72d4db66d12c9f4*)
+* [mega.nz](https://mega.nz/#!WzR3RSDQ!1feC4sEnEbZN_tGk5U_DAiW6fCAXyeFuV9V4jrPB8cU)
+
+Password del file 7z: sarà comunicata il 4 Marzo alle ore 14:00 prima dell'inizio dell'apereritech
+
+## Shopper - 29 Gennaio 2020
 Durante [l'aperitech del 29 Gennaio 2020](https://community.codemotion.com/cyber-saiyan/meetups/meetup-aperitech-roma-di-cyber-saiyan) si è giocato con Shopper, la macchina boot2root preparata da HackTheBox per la [CTF di #RomHack2019](https://2019.romhack.io/ctf-2019.html)
 
 ### Writeup
