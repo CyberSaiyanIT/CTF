@@ -8,7 +8,7 @@ Scaricare l'applicazione virtuale OVA compressa con password (file: *kaarot.zip*
 * [Google Drive](https://drive.google.com/file/d/1wIBNkwSZ_D4RfK-oR-1wwgqGJ8C9bLiF/view?usp=sharing)
 * [mega.nz](https://mega.nz/#!WzR3RSDQ!1feC4sEnEbZN_tGk5U_DAiW6fCAXyeFuV9V4jrPB8cU)
 
-Password del file 7z: sarà comunicata il 4 Marzo alle ore 14:00 prima dell'inizio dell'apereritech
+Password del file zip: sarà comunicata il 4 Marzo alle ore 14:00 prima dell'inizio dell'apereritech
 
 ## Shopper - 29 Gennaio 2020
 Durante [l'aperitech del 29 Gennaio 2020](https://community.codemotion.com/cyber-saiyan/meetups/meetup-aperitech-roma-di-cyber-saiyan) si è giocato con Shopper, la macchina boot2root preparata da HackTheBox per la [CTF di #RomHack2019](https://2019.romhack.io/ctf-2019.html)
