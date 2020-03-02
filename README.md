@@ -6,7 +6,7 @@ Durante [l'aperitech del 4 Marzo 2020](https://community.codemotion.com/cyber-sa
 ### Download OVA
 Scaricare l'applicazione virtuale OVA compressa con password (file: *kaarot.zip* | dimesione: *7.21GB* | md5sum zip: *ad56d18ca55b14c0b72d4db66d12c9f4*)
 * [Google Drive](https://drive.google.com/file/d/1wIBNkwSZ_D4RfK-oR-1wwgqGJ8C9bLiF/view?usp=sharing)
-* [mega.nz](https://mega.nz/#!WzR3RSDQ!1feC4sEnEbZN_tGk5U_DAiW6fCAXyeFuV9V4jrPB8cU)
+* [mega.nz](https://mega.nz/#!WzR3RSDQ!1feC4sEnEbZN_tGk5U_DAiW6fCAXyeFuV9V4jrPB8cU) (consigliato per chi ha un account sulla piattaforma mega.nz)
 
 Password del file zip: sarà comunicata il 4 Marzo alle ore 14:00 prima dell'inizio dell'apereritech
 
