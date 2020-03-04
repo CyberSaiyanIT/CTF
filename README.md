@@ -1,7 +1,10 @@
 # CTF di Cyber Saiyan
 
 ## Kaarot - 4 Marzo 2020
-Durante [l'aperitech del 4 Marzo 2020](https://community.codemotion.com/cyber-saiyan/meetups/roma-meetup-aperitech-di-marzo-di-cyber-saiyan) andremo a risolvere **Kaarot** , una boot2root preparata da *yuntao* e *decoder*
+Durante [l'aperitech del 4 Marzo 2020](https://community.codemotion.com/cyber-saiyan/meetups/roma-meetup-aperitech-di-marzo-di-cyber-saiyan) si è giocato **Kaarot** , una boot2root preparata da *yuntao* e *decoder*
+
+### Writeup
+[Qui è disponibile](writeup-20200304/ctf-writeup.md) il writeup della CTF
 
 ### Download OVA
 Scaricare l'applicazione virtuale OVA compressa con password (file: *kaarot.zip* | dimesione: *7.21GB* | md5sum zip: *ad56d18ca55b14c0b72d4db66d12c9f4*)
